@@ -1,0 +1,5 @@
+git init
+git remote add origin "https://github.com/longvuuh/love.git"
+git add --all
+git commit -m "love c"
+git push -u origin master
